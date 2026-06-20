@@ -17,32 +17,32 @@ A multi-section frontend blog project showcasing three distinct blog styles in o
 
 ## Project Structure
 
-# the-dev-kitchen/
+# The-Dev-kitchen
 1. index.html             (Homepage)
 2. dev-journal.html       (Section 1)
 3.  recipe-blog.html      (Section 2)
 4. tartup-blog.html       (Section 3)
 
 
-# /css/
+# Css
 - style.css                (Your custom styles - based on GitHub reference)
 - variables.css            (Your CSS custom properties - colors, fonts)
 
-# /js/
+# JS
 - main.js                  (Global functions - dark mode, navbar scroll)
 - dev-journal.js           (Reading progress, TOC highlighting)
 - recipe-blog.js           (Filtering, modals, smooth scroll)
 - startup-blog.js          (Form validation, carousel, back-to-top)
 
-# /assets/
+# Assets
 - /images/                 (Placeholder images for recipes/startup)
 - /icons/                  (SVG icons for social media, dark mode)
 - /fonts/                  (Custom fonts if any)
 
-# /data/
+# Data
 - posts.json               (ALL blog post data in one JSON file)
 
-# README.md                (Project documentation)
+- README.md                (Project documentation)
 
 ## Key Learning
 - How to read and replicate production code from GitHub repositories
