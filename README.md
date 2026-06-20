@@ -18,10 +18,10 @@ A multi-section frontend blog project showcasing three distinct blog styles in o
 ## Project Structure
 
 # The-Dev-kitchen
-1. index.html             (Homepage)
-2. dev-journal.html       (Section 1)
-3.  recipe-blog.html      (Section 2)
-4. tartup-blog.html       (Section 3)
+- index.html             (Homepage)
+- dev-journal.html       (Section 1)
+- recipe-blog.html      (Section 2)
+- startup-blog.html       (Section 3)
 
 
 # Css
@@ -35,9 +35,9 @@ A multi-section frontend blog project showcasing three distinct blog styles in o
 - startup-blog.js          (Form validation, carousel, back-to-top)
 
 # Assets
-- /images/                 (Placeholder images for recipes/startup)
-- /icons/                  (SVG icons for social media, dark mode)
-- /fonts/                  (Custom fonts if any)
+- Images                (Placeholder images for recipes/startup)
+- Icons                  (SVG icons for social media, dark mode)
+- Fonts                  (Custom fonts if any)
 
 # Data
 - posts.json               (ALL blog post data in one JSON file)
